@@ -1,8 +1,3 @@
-- Video 06 (Database Migration)
-
-  ![image](https://github.com/user-attachments/assets/dcbffb29-94e6-4dd5-8f77-db1117f400c0)
-  ![image](https://github.com/user-attachments/assets/1401c4f5-c815-4668-b9b5-e6db3cbd33d4)
-
 - Video 07 (Database Facades)
 
   ![image](https://github.com/user-attachments/assets/40de6a3a-e0f0-4540-8fc7-197e26a17cd3)
