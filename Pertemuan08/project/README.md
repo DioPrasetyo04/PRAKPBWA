@@ -1,66 +1,41 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+- Video 01 (Setup Laravel)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+  ![image](https://github.com/user-attachments/assets/f11d3d48-4dcc-4215-af04-0029e0fdbce7)
 
-## About Laravel
+- Video 02 (Routing & View)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+  - Tampilan Section Home
+  
+  ![image](https://github.com/user-attachments/assets/cbaf0915-b079-4ecc-8799-4acfa52bb55b)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+  - Tampilan Section About
+  
+  ![image](https://github.com/user-attachments/assets/735d519d-1c58-4936-9a86-57595c98e91c)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+  - Tampilan Section Contact
 
-## Learning Laravel
+  ![image](https://github.com/user-attachments/assets/d33e1c6d-a126-42a6-8d01-3551c82072a7)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+  - Tampilan Section Gallery
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+  ![image](https://github.com/user-attachments/assets/a127b1da-6335-44d4-a746-4f9c7d988361)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Video 03 (styling)
 
-## Laravel Sponsors
+  ![image](https://github.com/user-attachments/assets/f198cde6-fac7-4de6-abff-89ce43a8ce16)
+  ![image](https://github.com/user-attachments/assets/7976e149-4f2f-4d69-849d-ab924d225037)
+  ![image](https://github.com/user-attachments/assets/1c19b9b1-bc92-43a2-95cb-d6bcbd4ba524)
+  ![image](https://github.com/user-attachments/assets/a56cb454-a1c0-404e-a9f3-69c8cc0d3a76)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- Video 04 (Active State)
 
-### Premium Partners
+  ![image](https://github.com/user-attachments/assets/0120ccc2-ec0c-4114-be19-ac7ca2cd566a)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- Video 05 (Controller)
 
-## Contributing
+  ![image](https://github.com/user-attachments/assets/7fa158f0-fffc-4229-917d-803443cfe0c2)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Video 06 (Database Migration)
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+  ![image](https://github.com/user-attachments/assets/5ef6e733-c1a4-4e8d-915c-96f450e258a0)
+  ![image](https://github.com/user-attachments/assets/d91d57e5-54fa-445b-bb7d-4671d040ae1a)
