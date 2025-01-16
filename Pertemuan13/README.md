@@ -1,66 +1,66 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+- Video 31
+  - Tampilan Halaman Stores sebelum register / login
+   ![image](https://github.com/user-attachments/assets/88822dac-5914-453f-8904-051927b9c13e)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+  - Tampilan Halaman Store setelah register / login
+  ![image](https://github.com/user-attachments/assets/72195fbd-6398-46cb-8c8b-960a7a548e55)
 
-## About Laravel
+  - Tampilan halaman setelah register / login per item (slug)
+  ![image](https://github.com/user-attachments/assets/6741e74e-79bc-4403-acdd-40bf40651748)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+  - Tampilan List Store
+  ![image](https://github.com/user-attachments/assets/5201a62b-7c63-40e2-a8a3-3074113c33ee)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+  - Tampilan My Store
+  ![image](https://github.com/user-attachments/assets/73897bcd-2c85-49cb-81cb-fbe582bc87ef)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Video 32
+  - Tampilan Stores
+    ![image](https://github.com/user-attachments/assets/127f6ad0-8f6e-402a-b7d1-eb1fb038ed88)
 
-## Learning Laravel
+  - Tampilan list stores
+  ![image](https://github.com/user-attachments/assets/e523e326-faaf-467f-92c2-e2d9a046e898)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+  - Tampilan My Store
+  ![image](https://github.com/user-attachments/assets/a853c86a-a8f5-427b-b691-a98c687f150e)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+  - Tampilan get 1 store
+  ![image](https://github.com/user-attachments/assets/906b7036-c04b-4695-9c1a-356738ca77e9)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+  - Tampilan detail get 1 store
+  ![image](https://github.com/user-attachments/assets/df25c6bb-5cb7-4009-8f9a-b611440feec2)
 
-## Laravel Sponsors
+- Video 33
+  - Tampilan stores sebelum login / register
+  ![image](https://github.com/user-attachments/assets/08459e23-592b-4a71-a51b-722b9c5b887d)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+  - Tampilan get 1 store / get slug store
+  ![image](https://github.com/user-attachments/assets/1fcc3e17-e9dc-4ab5-b613-b95aed2d5ee0)
 
-### Premium Partners
+  - Tampilan get 1 detail slug stores sebelum register / login
+  ![image](https://github.com/user-attachments/assets/b5d1746b-cf55-424f-b446-693385dd2e6a)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+  - Tampilan stores sesudah reguister / login
+  ![image](https://github.com/user-attachments/assets/ba61d702-4007-457b-8de7-2963326b05e5)
 
-## Contributing
+  - Tampilan list stores sesudah register / login by admin
+  ![image](https://github.com/user-attachments/assets/829f3938-4e93-4328-b56b-0aa03c05a340)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+  - Tampilan approve store sesudah register / login by admin with queue & mailtrap
+  ![image](https://github.com/user-attachments/assets/372e872b-950a-49f2-b52c-ab0db7ef299f)
 
-## Code of Conduct
+  - Tampilan store setelah approve sesudah register / login by admin with queue & mailtrap
+  ![image](https://github.com/user-attachments/assets/915ca135-ef2a-484e-b1a9-8056892c2452)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+  - Tampilan notification email sesudah approve store with mailtrap & queue sesudah register / login by admin
+  ![image](https://github.com/user-attachments/assets/7a252e45-580f-4a5a-a5b5-055a56ea0186)
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+  - Tampilan get 1 store with pagination by admin with queue & mailtrap
+  ![image](https://github.com/user-attachments/assets/857f3d36-37ee-4aca-980c-a57c7b7e90f1)
 
-## License
+  - Tampilan JSON detail get 1 store atau get 1 slug store by admin with queue & mailtrap
+  ![image](https://github.com/user-attachments/assets/3d967864-575f-487b-8250-4d03df4930ad)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+  - Tampilan halaman my store sesudah register / login by admin atau user with queue & mailtrap
+  ![image](https://github.com/user-attachments/assets/8aff9cd4-62e3-44ce-a8f6-8ea244fbd5ba)
